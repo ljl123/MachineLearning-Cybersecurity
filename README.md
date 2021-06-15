@@ -11,7 +11,7 @@ Environment: Win10、Python3
 #### Weighted Word2vec Paragraph Vectors
 The Weighted Word2vec Paragraph Vectors for Anomaly Detection Over HTTP Traffic
 
-http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=1&SID=8E3Avax8K3HBKLOd7tH&page=1&doc=1
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154702
 
 Only the core code of a dataset is provided here for demonstration
 
